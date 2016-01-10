@@ -5,46 +5,48 @@ there are definitely some properties you should add!*/
     html {
       height: 100%;
       font-family: Papyrus;
+      width: 100%;
       background-color:#FFED8C;
     }
     body {
+      width: 98%;
        height: 100%;
-       background-image: ;
+       margin: 0px;
+
     }
 
     header {
-        background-color:#AD6F36;
-        padding: 5px;
-        border: 0px solid #000000;
-        margin: 50px;
-        font-size: ;
+        background-color:#C14626;
+        padding:5px;
+        font-size: 30px;
         display: block;
-        width: 100%;
+        width: 98%;
+        border: 14px solid #FFFFFF;
+        margin: 0px;
         text-align: center;
     }
     nav {
         line-height:;
-        width:125px;
+        background-color:;
+        width:200px;
         display: inline-block;
         vertical-align: top;
     }
-    article img{
-      display: block;
-    margin-left: auto;
-    margin-right: auto;
-    }
     nav ul {
         list-style-type: none;
-    }
-    nav li {
-
     }
     a {
         color: ;
     }
     section {
-        width: 516px;
+        width: 560px;
+        padding: 25px;
         display: inline-block;
+    }
+    article img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
     aside {
       width: 125px;
